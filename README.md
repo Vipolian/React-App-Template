@@ -1,4 +1,4 @@
-# React-App-Template
+# React-Redux-Template
 This boilerplate is built using create-react-app
 
 ## Installation
