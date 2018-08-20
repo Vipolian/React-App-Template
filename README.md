@@ -1,2 +1,16 @@
 # React-App-Template
 This boilerplate is built using create-react-app
+
+## Installation
+
+```bash
+git clone https://github.com/notrab/create-react-app-redux.git
+cd create-react-app-redux
+yarn
+```
+
+## Get started
+
+```bash
+yarn start
+```
